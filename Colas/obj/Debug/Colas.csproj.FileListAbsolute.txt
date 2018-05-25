@@ -1,0 +1,20 @@
+c:\users\alexb\source\repos\Colas\Colas\bin\Debug\Colas.exe.config
+c:\users\alexb\source\repos\Colas\Colas\bin\Debug\Colas.exe
+c:\users\alexb\source\repos\Colas\Colas\bin\Debug\Colas.pdb
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.csprojResolveAssemblyReference.cache
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.Form1.resources
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.Properties.Resources.resources
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.Cache
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.exe
+c:\users\alexb\source\repos\Colas\Colas\obj\Debug\Colas.pdb
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\bin\Debug\Colas.exe.config
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\bin\Debug\Colas.exe
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\bin\Debug\Colas.pdb
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.Properties.Resources.resources
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.exe
+C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.pdb
