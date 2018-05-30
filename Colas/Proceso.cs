@@ -17,29 +17,18 @@ namespace Colas
         public int Tiempo
         {
             get { return _tiempo; }
+            set { _tiempo = value; }
         }
 
         public Proceso Siguiente
         {
-            get
-            {
-                return siguiente;
-            }
-            set
-            {
-                siguiente = value;
-            }
+            get{ return siguiente; }
+            set{ siguiente = value; }
         }
         public Proceso Anterior
         {
-            get
-            {
-                return anterior;
-            }
-            set
-            {
-                anterior = value;
-            }
+            get{ return anterior; }
+            set{ anterior = value; }
         }
 
 

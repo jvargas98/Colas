@@ -51,7 +51,6 @@
             this.txtInfo.Name = "txtInfo";
             this.txtInfo.Size = new System.Drawing.Size(228, 141);
             this.txtInfo.TabIndex = 1;
-            
             // 
             // Form1
             // 

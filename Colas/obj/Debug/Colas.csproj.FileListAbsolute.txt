@@ -18,3 +18,23 @@ C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.csproj.Gener
 C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
 C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.exe
 C:\Users\alexb\source\repos\Colas - copia (2)\Colas\obj\Debug\Colas.pdb
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\bin\Debug\Colas.exe.config
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\bin\Debug\Colas.exe
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\bin\Debug\Colas.pdb
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.Properties.Resources.resources
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.exe
+C:\Users\alexb\source\repos\Nueva carpeta\Colas\obj\Debug\Colas.pdb
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\bin\Debug\Colas.exe.config
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\bin\Debug\Colas.exe
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\bin\Debug\Colas.pdb
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.Properties.Resources.resources
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.exe
+C:\Users\alexb\source\repos\Colas - clase 2 - copia\Colas\obj\Debug\Colas.pdb
